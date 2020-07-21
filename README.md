@@ -9,7 +9,8 @@
 const Prem = {
     Pronouns: "He" | "Him",
     Code: ["Javascript", "Python", "Java", "PHP", "C++" ],
-    AskMeAbout: ["Web Dev", "AI", "App Dev", "Computer Vision","Web Scraping","Version Control Systems","Data Science","Graphivc Design"],
+    AskMeAbout: ["Web Dev", "AI", "App Dev", "Computer Vision","Web Scraping",
+                 "Version Control Systems","Data Science","Graphic Design"],
     Technologies: {
         MobileApp: ["Android App"],
         FrontEnd: {
@@ -21,7 +22,8 @@ const Prem = {
         Databases: ["MongoDB", "MySql", "PostGreSQL"],
         Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", "Scikit-learn", "OpenCV", "Keras"]
     },
-    FunFact: "Computers run on binary code, which means that their software is written using only 1s and 0s."
+    FunFact: "Computers run on binary code, which means that 
+              their software is written using only 1s and 0s."
 };
 ```
 
