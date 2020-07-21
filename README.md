@@ -9,7 +9,7 @@
 const Prem = {
     Pronouns: "He" | "Him",
     Code: ["Javascript", "Python", "Java", "PHP", "C++" ],
-    AskMeAbout: ["Web dev", "tech", "app dev", "photography"],
+    AskMeAbout: ["Web Dev", "AI", "App Dev", "Computer Vision","Web Scraping","Version Control Systems","Data Science","Graphivc Design"],
     Technologies: {
         MobileApp: ["Android App"],
         FrontEnd: {
@@ -19,9 +19,9 @@ const Prem = {
             js: ["Node", "Express","PHP"],
         },
         Databases: ["MongoDB", "MySql", "PostGreSQL"],
-        Misc: []
+        Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", "Scikit-learn", "OpenCV", "Keras"]
     },
-    FunFact: "There are two ways to write error-free programs; only the third one works"
+    FunFact: "Computers run on binary code, which means that their software is written using only 1s and 0s."
 };
 ```
 
