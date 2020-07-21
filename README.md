@@ -17,8 +17,11 @@ const Prem = {
         },
         Databases: ["MongoDB", "MySql", "PostGreSQL"],
         Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", "Scikit-learn", "OpenCV", "Keras"]
+<<<<<<< HEAD
         Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", 
                "Scikit-learn", "OpenCV", "Keras","Git","Github"]
+=======
+>>>>>>> parent of 452a283... Update README.md
     },
     FunFact: "Computers run on binary code, which means that 
               their software is written using only 1s and 0s."
