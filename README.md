@@ -20,7 +20,8 @@ const Prem = {
             js: ["Node", "Express","PHP"],
         },
         Databases: ["MongoDB", "MySql", "PostGreSQL"],
-        Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", "Scikit-learn", "OpenCV", "Keras"]
+        Misc: ["Numpy", "Pandas", "Matplotlib", "Tensorflow", 
+               "Scikit-learn", "OpenCV", "Keras","Git","Github"]
     },
     FunFact: "Computers run on binary code, which means that 
               their software is written using only 1s and 0s."
